@@ -18,7 +18,7 @@ Tableau de bord dédié au Maître d’Ouvrage.
 ## 📸 Phase 1 — Aperçu du projet
 
 <p align="center">
-  <img src="screenshots/01-login.png" width="30%" />
+  <img src="screenshots/shot_inscription.png" width="30%" />
   <img src="screenshots/02-create-account.png" width="30%" />
   <img src="screenshots/03-superviseur.png" width="30%" />
 </p>
