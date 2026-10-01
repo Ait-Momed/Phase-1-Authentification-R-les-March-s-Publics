@@ -19,12 +19,10 @@ Tableau de bord dédié au Maître d’Ouvrage.
 
 <p align="center">
   <img src="screenshots/shot_inscription.png" width="30%" />
-  <img src="screenshots/02-create-account.png" width="30%" />
-  <img src="screenshots/03-superviseur.png" width="30%" />
+  <img src="screenshots/shot.png" width="30%" />
 </p>
 
 <p align="center">
-  <img src="screenshots/04-maitre-ouvrage.png" width="30%" />
-  <img src="screenshots/05-commission-concurrente.png" width="30%" />
-  <img src="screenshots/06-dashboard.png" width="30%" />
+  <img src="screenshots/0shot_1920.png" width="30%" />
+  <img src="screenshots/shot_test_iframe.png" width="30%" />
 </p>
