@@ -23,6 +23,6 @@ Tableau de bord dédié au Maître d’Ouvrage.
 </p>
 
 <p align="center">
-  <img src="screenshots/ shot_1920.png" width="30%" />
+  <img src="screenshots/shot_1920.png" width="30%" />
   <img src="screenshots/shot_test_iframe.png" width="30%" />
 </p>
